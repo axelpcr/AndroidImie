@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="authentication">za</string>
+    <string name="app_name">MyTuto</string>
+    <string name="authentication">Authentification</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connection">Connection</string>
+    <string name="savePassword">Save Password</string>
+    <string name="register">Register</string>
 </resources>

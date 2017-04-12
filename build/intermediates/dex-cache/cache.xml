@@ -3,21 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/home/axel/Developpement/Project/Kikivyhun/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/axel/Developpement/Project/AndroidImie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ca39a7d39e77b08fa51dd62589e5e5ff25b82dd4">
-        <dex dex="/home/axel/Developpement/Project/Kikivyhun/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23c21756aa6befd498086cb4232c8963010fdd65/classes.dex" />
+        sha1="835042c3615b83044f0beb96b16693c934643173">
+        <dex dex="/home/axel/Developpement/Project/AndroidImie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d4755815d2e742e5684c954303c9778791e225c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/axel/Developpement/Project/Kikivyhun/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/axel/Developpement/Project/AndroidImie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/home/axel/Developpement/Project/Kikivyhun/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba0018893a7d2d35631f6c4a7c48e26aa383d0e0/classes.dex" />
+        <dex dex="/home/axel/Developpement/Project/AndroidImie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cea1d9caf15449236ad34b1524ef571c541479c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/axel/Developpement/Project/MyTuto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/axel/Developpement/Project/MyTuto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81eccd976eaa007701653401865b9e542f593d05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/axel/Developpement/Project/MyTuto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b1bb5478d0345ae9501f753fa7eb68101b5b5d">
+        <dex dex="/home/axel/Developpement/Project/MyTuto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b98f0bd7980c715bdec20d66b290140e144f503/classes.dex" />
     </item>
 
 </items>
